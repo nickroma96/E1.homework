@@ -1,0 +1,41 @@
+.navigation{
+    float: none;
+    height: 100%;
+}
+ 
+.navigation a{
+    height: 10%;
+    display: table-header-group;
+    float: right;
+    padding: 0px 15px;
+    background-color: none;
+}
+ 
+.navigation a li{
+    vertical-align: middle;
+    display: table-header-group;
+    font-size: 20px;
+    color: rgb(255, 0, 179);
+    
+    
+}
+ 
+.navigation a:hover{
+    background-color: #636161;
+    color: none;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    padding: 8px;
+    background: #222222;
+    color: rgb(255, 255, 255);
+    font-family: Helvetica;
+}
+
+.img_class{
+	margin: 10px 10px 0px 0px; 
+	
+	}
+
+
